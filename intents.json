@@ -1,0 +1,94 @@
+{
+    "intents": [
+      {
+        "tag": "admission",
+        "patterns": [
+          "When does admission start?",
+          "I want to take admission",
+          "Tell me about admission",
+          "Is admission open?"
+        ],
+        "responses": [
+          "Admissions will start next week.",
+          "Please fill out the form on the website.",
+          "Yes, admissions are currently open."
+        ]
+      },
+      {
+        "tag": "fees",
+        "patterns": [
+          "What is the fee?",
+          "When do I have to pay the fee?",
+          "Can I pay the fee in installments?"
+        ],
+        "responses": [
+          "The fee is 35,000 PKR.",
+          "You can pay in three installments.",
+          "Please pay the fee by the 10th of each month."
+        ]
+      },
+      {
+        "tag": "classes",
+        "patterns": [
+          "When will classes start?",
+          "What is the class schedule?",
+          "Are there online classes?"
+        ],
+        "responses": [
+          "Classes will start from next Monday.",
+          "The schedule will be sent to your email.",
+          "Yes, online classes are available."
+        ]
+      },
+      {
+        "tag": "lab",
+        "patterns": [
+          "When is the lab open?",
+          "Is there a lab facility?",
+          "What are the lab resources?"
+        ],
+        "responses": [
+          "The lab is open from 9 AM to 5 PM.",
+          "Yes, lab facilities are available.",
+          "The lab has computers, internet, and printing."
+        ]
+      },
+      {
+        "tag": "affiliation",
+        "patterns": [
+          "What is the college affiliated with?",
+          "Is it approved by the board?",
+          "Tell me about the affiliation."
+        ],
+        "responses": [
+          "The college is affiliated with Punjab Board and HEC.",
+          "Yes, it is a fully recognized institution."
+        ]
+      },
+      {
+        "tag": "management",
+        "patterns": [
+          "Who owns the college?",
+          "Who manages the college?",
+          "Who is the principal?"
+        ],
+        "responses": [
+          "The college is run by highly qualified professionals.",
+          "The principal is Mr. Ali Khan."
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Goodbye",
+          "See you later",
+          "Bye"
+        ],
+        "responses": [
+          "Goodbye!",
+          "Take care!",
+          "See you soon!"
+        ]
+      }
+    ]
+  }
