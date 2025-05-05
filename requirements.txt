@@ -1,0 +1,8 @@
+streamlit
+numpy
+tensorflow
+nltk
+scikit-learn
+pyttsx3
+speechrecognition
+audiopy
