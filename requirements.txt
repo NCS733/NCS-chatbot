@@ -1,5 +1,5 @@
 nltk
-pyttsx3==2.90
-SpeechRecognition==3.10.0
+pyttsx3
+SpeechRecognition
 streamlit
 tensorflow==2.10.0
